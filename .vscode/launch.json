@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BancoAula04Application<banco>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.aula04.banco.banco.BancoAula04Application",
+            "projectName": "banco",
+            "args": ""
+        }
+    ]
+}
